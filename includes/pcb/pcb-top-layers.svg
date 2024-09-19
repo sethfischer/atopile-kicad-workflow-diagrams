@@ -12,7 +12,7 @@
    height="46.080002"
    viewBox="0 0 21.082001 12.192001"
    id="svg368"
-   sodipodi:docname="pcb-brd_modified.svg"
+   sodipodi:docname="pcb-top-layers.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <metadata
      id="metadata374">
@@ -37,8 +37,8 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1848"
-     inkscape:window-height="1016"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
      id="namedview370"
      showgrid="false"
      fit-margin-top="0"
@@ -46,13 +46,13 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      units="px"
-     inkscape:zoom="10.067782"
-     inkscape:cx="39.840002"
-     inkscape:cy="25.725627"
-     inkscape:window-x="72"
-     inkscape:window-y="27"
+     inkscape:zoom="17.143573"
+     inkscape:cx="39.840004"
+     inkscape:cy="23.040001"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      inkscape:pagecheckerboard="true" />
   <title
      id="title2">SVG Image created as pcb-brd.svg date 2024/09/20 17:26:08 </title>
@@ -69,7 +69,7 @@
      style="display:inline"
      transform="translate(-1.375371,-1.1418173)">
     <rect
-       style="display:inline;fill:#008c4a;fill-opacity:1;stroke:none;stroke-width:1.32291663;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;fill:#355e3b;fill-opacity:1;stroke:none;stroke-width:1.32291663;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect1737"
        width="21.082001"
        height="12.192"
@@ -656,89 +656,89 @@
          id="circle264" />
     </g>
     <g
-       style="fill:none;stroke:#355e3b;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       style="fill:none;stroke:#008c4a;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
        id="g334"
        transform="translate(-9.482629,1.1168174)">
       <path
          d="M 17.899,5.5622 H 13.8452"
          id="path302"
          inkscape:connector-curvature="0"
-         style="stroke:#355e3b;stroke-opacity:1" />
+         style="stroke:#008c4a;stroke-opacity:1" />
       <path
          d="m 13.8452,5.5622 -0.625,-0.625"
          id="path304"
          inkscape:connector-curvature="0"
-         style="stroke:#355e3b;stroke-opacity:1" />
+         style="stroke:#008c4a;stroke-opacity:1" />
       <path
          d="m 24.899,6.8322 h 4.0338"
          id="path306"
          inkscape:connector-curvature="0"
-         style="stroke:#355e3b;stroke-opacity:1" />
+         style="stroke:#008c4a;stroke-opacity:1" />
       <path
          d="m 28.9328,6.8322 0.645,0.645"
          id="path308"
          inkscape:connector-curvature="0"
-         style="stroke:#355e3b;stroke-opacity:1" />
+         style="stroke:#008c4a;stroke-opacity:1" />
       <path
          d="m 24.899,5.5622 h 4.0538"
          id="path310"
          inkscape:connector-curvature="0"
-         style="stroke:#355e3b;stroke-opacity:1" />
+         style="stroke:#008c4a;stroke-opacity:1" />
       <path
          d="m 28.9528,5.5622 0.625,-0.625"
          id="path312"
          inkscape:connector-curvature="0"
-         style="stroke:#355e3b;stroke-opacity:1" />
+         style="stroke:#008c4a;stroke-opacity:1" />
       <path
          d="m 24.899,8.1022 1.915,1.915"
          id="path314"
          inkscape:connector-curvature="0"
-         style="stroke:#355e3b;stroke-opacity:1" />
+         style="stroke:#008c4a;stroke-opacity:1" />
       <path
          d="m 26.814,10.0172 h 2.7638"
          id="path316"
          inkscape:connector-curvature="0"
-         style="stroke:#355e3b;stroke-opacity:1" />
+         style="stroke:#008c4a;stroke-opacity:1" />
       <path
          d="m 24.899,4.2922 1.895,-1.895"
          id="path318"
          inkscape:connector-curvature="0"
-         style="stroke:#355e3b;stroke-opacity:1" />
+         style="stroke:#008c4a;stroke-opacity:1" />
       <path
          d="m 26.794,2.3972 h 2.7838"
          id="path320"
          inkscape:connector-curvature="0"
-         style="stroke:#355e3b;stroke-opacity:1" />
+         style="stroke:#008c4a;stroke-opacity:1" />
       <path
          d="m 17.899,8.1022 -1.915,1.915"
          id="path322"
          inkscape:connector-curvature="0"
-         style="stroke:#355e3b;stroke-opacity:1" />
+         style="stroke:#008c4a;stroke-opacity:1" />
       <path
          d="M 15.984,10.0172 H 13.2202"
          id="path324"
          inkscape:connector-curvature="0"
-         style="stroke:#355e3b;stroke-opacity:1" />
+         style="stroke:#008c4a;stroke-opacity:1" />
       <path
          d="M 17.899,4.2922 16.004,2.3972"
          id="path326"
          inkscape:connector-curvature="0"
-         style="stroke:#355e3b;stroke-opacity:1" />
+         style="stroke:#008c4a;stroke-opacity:1" />
       <path
          d="M 16.004,2.3972 H 13.2202"
          id="path328"
          inkscape:connector-curvature="0"
-         style="stroke:#355e3b;stroke-opacity:1" />
+         style="stroke:#008c4a;stroke-opacity:1" />
       <path
          d="m 13.8652,6.8322 -0.645,0.645"
          id="path330"
          inkscape:connector-curvature="0"
-         style="stroke:#355e3b;stroke-opacity:1" />
+         style="stroke:#008c4a;stroke-opacity:1" />
       <path
          d="M 17.899,6.8322 H 13.8652"
          id="path332"
          inkscape:connector-curvature="0"
-         style="stroke:#355e3b;stroke-opacity:1" />
+         style="stroke:#008c4a;stroke-opacity:1" />
     </g>
     <g
        style="fill:#ffd700;fill-opacity:1;stroke:none"
