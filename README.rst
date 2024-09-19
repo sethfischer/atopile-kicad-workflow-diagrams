@@ -12,3 +12,4 @@ Credits
 
 * KiCad icons and logo: `KiCad Source Code <https://gitlab.com/kicad/code/kicad/-/tree/master/resources/linux/icons/hicolor/scalable/apps>`__
 * Factory clip art: `Factory concept illustration <https://www.freepik.com/free-vector/factory-concept-illustration_12892954.htm>`__
+* Directory and text icons: `GNOME adwaita-icon-theme <https://gitlab.gnome.org/GNOME/adwaita-icon-theme>`__
