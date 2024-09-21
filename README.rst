@@ -12,7 +12,12 @@ Build raster images
 
 .. code-block:: text
 
-    make all
+    $ make all
+
+Requirements:
+
+* `Inkscape <https://inkscape.org/>`__
+* `ImageMagick <https://imagemagick.org/>`__
 
 
 Credits
