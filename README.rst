@@ -7,8 +7,8 @@ the `design flow diagram <https://devbisme.github.io/skidl/#introduction>`__
 in the `devbisme/skidl <https://github.com/devbisme/skidl>`__ documentation.
 
 
-Build raster images
--------------------
+Build
+-----
 
 .. code-block:: text
 
@@ -17,7 +17,6 @@ Build raster images
 Requirements:
 
 * `Inkscape <https://inkscape.org/>`__
-* `ImageMagick <https://imagemagick.org/>`__
 
 
 Credits

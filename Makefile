@@ -1,29 +1,32 @@
 inkscape ?= inkscape
 
 all: \
-_build/kicad-workflow-transparent.png \
+_build/atopile-workflow-black.png \
 _build/atopile-workflow-transparent.png \
+_build/atopile-workflow.svg \
 _build/kicad-workflow-black.png \
-_build/atopile-workflow-black.png
+_build/kicad-workflow-transparent.png \
+_build/kicad-workflow.svg
 
 
-_build/layer-base.png: atopile-kicad-workflow.svg
-	$(inkscape) --export-area-page --export-id-only --export-png=$@ --export-id="layer-base" $<
+_build/kicad-workflow-transparent.png: _build/kicad-workflow.svg
+	$(inkscape) --actions="export-filename:$@;export-do;FileClose" $<
 
-_build/layer-kicad.png: atopile-kicad-workflow.svg
-	$(inkscape) --export-area-page --export-id-only --export-png=$@ --export-id="layer-kicad" $<
+_build/atopile-workflow-transparent.png: _build/atopile-workflow.svg
+	$(inkscape) --actions="export-filename:$@;export-do;FileClose" $<
 
-_build/layer-atopile.png: atopile-kicad-workflow.svg
-	$(inkscape) --export-area-page --export-id-only --export-png=$@ --export-id="layer-atopile" $<
+_build/kicad-workflow-black.png: _build/kicad-workflow.svg
+	$(inkscape) --export-background=black --export-filename=$@ $<
 
-_build/kicad-workflow-transparent.png: _build/layer-base.png _build/layer-kicad.png
-	convert $^ -gravity center -background None -layers Flatten $@
+_build/atopile-workflow-black.png: _build/kicad-workflow.svg
+	$(inkscape) --export-background=black --export-filename=$@ $<
 
-_build/atopile-workflow-transparent.png: _build/layer-base.png _build/layer-atopile.png
-	convert $^ -gravity center -background None -layers Flatten $@
+_build/atopile-workflow.svg: atopile-kicad-workflow.svg
+	cp $< $@.tmp
+	$(inkscape) --actions="export-text-to-path;select-by-id:layer-kicad;delete;export-plain-svg;export-filename:$@;export-do;FileClose" $@.tmp
+	$(RM) $@.tmp
 
-_build/kicad-workflow-black.png: _build/layer-base.png _build/layer-kicad.png
-	convert $^ -gravity center -background black -layers Flatten $@
-
-_build/atopile-workflow-black.png: _build/layer-base.png _build/layer-atopile.png
-	convert $^ -gravity center -background black -layers Flatten $@
+_build/kicad-workflow.svg: atopile-kicad-workflow.svg
+	cp $< $@.tmp
+	$(inkscape) --actions="export-text-to-path;select-by-id:layer-atopile;delete;export-plain-svg;export-filename:$@;export-do;FileClose" $@.tmp
+	$(RM) $@.tmp
