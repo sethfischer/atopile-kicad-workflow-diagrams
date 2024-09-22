@@ -12,7 +12,7 @@ Build raster images
 
 .. code-block:: text
 
-    $ make all
+    $ make all [inkscape="path/to/inkscape"]
 
 Requirements:
 
