@@ -706,8 +706,7 @@
          id="flowPara1157" /></flowRoot>    <g
        style="display:inline"
        transform="translate(488.60573,-876.04776)"
-       id="layer1-8-9"
-       inkscape:label="Layer 1">
+       id="atopile__logo_kicad">
       <path
          id="rect3438-4-1-6-9-8-4-4-2"
          d="M 51.678648,901.97614 H 166.07062 c 0.51273,0 0.9255,0.43179 0.9255,0.96814 v 109.79552 c 0,0.5364 -0.41277,0.9682 -0.9255,0.9682 H 51.678648 c -0.512727,0 -0.925501,-0.4318 -0.925501,-0.9682 V 902.94428 c 0,-0.53635 0.412774,-0.96814 0.925501,-0.96814 z"
@@ -749,51 +748,54 @@
          style="fill:#ff7700;fill-opacity:1;fill-rule:nonzero;stroke:none"
          inkscape:connector-curvature="0" />
     </g>
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5.00031519;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:30.00188976, 5.00031496;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect1600"
-       width="491.47919"
-       height="537.61804"
-       x="20.060375"
-       y="163.24084" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot1401"
-       style="font-style:normal;font-weight:normal;font-size:42.66666794px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(764.51221,31.147491)"><flowRegion
-         id="flowRegion1403"><rect
-           id="rect1405"
-           width="479.44293"
-           height="531.59998"
-           x="-736.21576"
-           y="131.14424" /></flowRegion><flowPara
-         id="flowPara1407"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:1;font-family:monospace;-inkscape-font-specification:monospace">component AmberLed from LED</flowPara><flowPara
-         id="flowPara1409"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:1;font-family:monospace;-inkscape-font-specification:monospace">    &quot;&quot;&quot;Amber LED.&quot;&quot;&quot;</flowPara><flowPara
-         id="flowPara1411"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:1;font-family:monospace;-inkscape-font-specification:monospace">    footprint = &quot;LED_0603&quot;</flowPara><flowPara
-         id="flowPara1413"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:1;font-family:monospace;-inkscape-font-specification:monospace">    lcsc_id = &quot;C2690338&quot;</flowPara><flowPara
-         id="flowPara1415"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:1;font-family:monospace;-inkscape-font-specification:monospace">    mpn = &quot;C2690338&quot;</flowPara><flowPara
-         id="flowPara1417"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:1;font-family:monospace;-inkscape-font-specification:monospace" /><flowPara
-         id="flowPara1419"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:1;font-family:monospace;-inkscape-font-specification:monospace">    v_f = 2.2V</flowPara><flowPara
-         id="flowPara1421"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:1;font-family:monospace;-inkscape-font-specification:monospace">    i_max = 20mA</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:1;font-family:monospace;-inkscape-font-specification:monospace"
-         id="flowPara1443">    signal anode ~ pin 1</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:monospace;-inkscape-font-specification:monospace"
-         id="flowPara1449"><flowSpan
-   style="font-size:29.33333397px;line-height:1"
-   id="flowSpan1451">    signal cathode ~ pin</flowSpan> 2</flowPara><flowPara
-         id="flowPara1425"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:monospace;-inkscape-font-specification:monospace" /></flowRoot>    <g
+    <g
+       id="atopile__group_ato-code">
+      <rect
+         y="163.24084"
+         x="20.060375"
+         height="537.61804"
+         width="491.47919"
+         id="rect1600"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5.00031519;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:30.00188976, 5.00031496;stroke-dashoffset:0;stroke-opacity:1" />
+      <flowRoot
+         transform="translate(764.51221,31.147491)"
+         style="font-style:normal;font-weight:normal;font-size:42.66666794px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot1401"
+         xml:space="preserve"><flowRegion
+           id="flowRegion1403"><rect
+             y="131.14424"
+             x="-736.21576"
+             height="531.59998"
+             width="479.44293"
+             id="rect1405" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:1;font-family:monospace;-inkscape-font-specification:monospace"
+           id="flowPara1407">component AmberLed from LED</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:1;font-family:monospace;-inkscape-font-specification:monospace"
+           id="flowPara1409">    &quot;&quot;&quot;Amber LED.&quot;&quot;&quot;</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:1;font-family:monospace;-inkscape-font-specification:monospace"
+           id="flowPara1411">    footprint = &quot;LED_0603&quot;</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:1;font-family:monospace;-inkscape-font-specification:monospace"
+           id="flowPara1413">    lcsc_id = &quot;C2690338&quot;</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:1;font-family:monospace;-inkscape-font-specification:monospace"
+           id="flowPara1415">    mpn = &quot;C2690338&quot;</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:1;font-family:monospace;-inkscape-font-specification:monospace"
+           id="flowPara1417" /><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:1;font-family:monospace;-inkscape-font-specification:monospace"
+           id="flowPara1419">    v_f = 2.2V</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:1;font-family:monospace;-inkscape-font-specification:monospace"
+           id="flowPara1421">    i_max = 20mA</flowPara><flowPara
+           id="flowPara1443"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:1;font-family:monospace;-inkscape-font-specification:monospace">    signal anode ~ pin 1</flowPara><flowPara
+           id="flowPara1449"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:monospace;-inkscape-font-specification:monospace"><flowSpan
+   id="flowSpan1451"
+   style="font-size:29.33333397px;line-height:1">    signal cathode ~ pin</flowSpan> 2</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:monospace;-inkscape-font-specification:monospace"
+           id="flowPara1425" /></flowRoot>    </g>
+    <g
        transform="translate(1.4837713,55.519731)"
        style="display:inline"
-       id="g1394">
+       id="ato__group_ato-build">
       <rect
          y="815.79596"
          x="48.897163"
@@ -817,7 +819,7 @@
        style="font-style:normal;font-weight:normal;font-size:42.66666794px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
        x="121.25092"
        y="1024.1119"
-       id="text1402-9"><tspan
+       id="atopile__text_atocompiler"><tspan
          sodipodi:role="line"
          id="tspan1400-4"
          x="121.25092"
@@ -827,7 +829,7 @@
        style="font-style:normal;font-weight:normal;font-size:42.66666794px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
        x="159.90935"
        y="742.02411"
-       id="text1402-6"><tspan
+       id="atopile__text_atocode"><tspan
          sodipodi:role="line"
          id="tspan1400-92"
          x="159.90935"
@@ -835,7 +837,7 @@
     <rect
        transform="translate(0,-11.249975)"
        style="display:inline;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:4.05194139;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:24.31164595, 4.05194099;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect1696-7"
+       id="atopile__boundry_kicad"
        width="986.1134"
        height="1060.3105"
        x="527.23779"
@@ -844,15 +846,15 @@
        transform="translate(0,-11.249975)"
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker6498)"
        d="m 583.75539,841.41106 -96.44514,96.44513"
-       id="path6488"
+       id="atopile__arrow_atobuild-netlist"
        inkscape:connector-curvature="0" />
     <path
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker6288)"
        d="M 263.85052,841.92458 V 760.31716"
-       id="path6278"
+       id="atopile__arrow_code-build"
        inkscape:connector-curvature="0" />
     <g
-       id="g1811">
+       id="atopile__logo_atopile">
       <g
          transform="matrix(0.37863012,0,0,0.37863012,18.872595,26.427526)"
          id="_Слой_1"
@@ -932,7 +934,7 @@
     <g
        style="display:inline"
        clip-path="url(#clipPath909)"
-       id="g903-3"
+       id="kicad__icon_schematiceditor"
        transform="matrix(8.3333333,0,0,8.3333333,66.249157,306.2607)">
       <g
          id="g881-5">
@@ -1071,7 +1073,7 @@
        style="font-style:normal;font-weight:normal;font-size:42.66666794px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
        x="83.134575"
        y="750.8678"
-       id="text1402-4"><tspan
+       id="kicad__text_schematiceditor"><tspan
          sodipodi:role="line"
          id="tspan1400-05"
          x="83.134575"
@@ -1079,8 +1081,7 @@
     <g
        style="display:inline"
        transform="translate(-27.25129,-875.1965)"
-       id="layer1-8"
-       inkscape:label="Layer 1">
+       id="kicad__logo_kicad">
       <path
          id="rect3438-4-1-6-9-8-4-4"
          d="M 51.678648,901.97614 H 166.07062 c 0.51273,0 0.9255,0.43179 0.9255,0.96814 v 109.79552 c 0,0.5364 -0.41277,0.9682 -0.9255,0.9682 H 51.678648 c -0.512727,0 -0.925501,-0.4318 -0.925501,-0.9682 V 902.94428 c 0,-0.53635 0.412774,-0.96814 0.925501,-0.96814 z"
@@ -1125,7 +1126,7 @@
     <rect
        transform="translate(0,-11.249975)"
        style="display:inline;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:5.00031519;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:30.00188976, 5.00031496;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect1696"
+       id="kicad__boundry_kicad"
        width="1503.1396"
        height="1059.3247"
        x="9.7185755"
@@ -1133,7 +1134,7 @@
     <path
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow2Mstart)"
        d="m 595.48601,576.9899 -99.41268,-86.05873 1.48377,1.48377"
-       id="path1193"
+       id="kicad__arrow_schematiceditor-netlist"
        inkscape:connector-curvature="0" />
   </g>
   <g
@@ -1144,7 +1145,7 @@
      style="display:inline">
     <g
        clip-path="url(#clipPath1565)"
-       id="g1563-2"
+       id="base__icon_pcbeditor"
        transform="matrix(6.25,0,0,6.25,870.29449,44.990696)">
       <g
          clip-path="url(#clipPath897-6)"
@@ -1318,7 +1319,7 @@
       </g>
     </g>
     <g
-       id="g2252"
+       id="base__icon_netlist"
        transform="matrix(3.4074271,0,0,3.4074271,542.94205,575.55729)">
       <path
          id="path2205"
@@ -1375,7 +1376,7 @@
       </g>
     </g>
     <g
-       id="g1694"
+       id="base__icon_gerberfiles"
        transform="matrix(3.527262,0,0,3.527262,-3117.4344,-2253.5673)">
       <g
          transform="translate(1188.1662,811.96573)"
@@ -1560,7 +1561,7 @@
        style="font-style:normal;font-weight:normal;font-size:42.66666794px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
        x="905.88824"
        y="402.54013"
-       id="text1402"><tspan
+       id="base__text_pcb-editor"><tspan
          sodipodi:role="line"
          id="tspan1400"
          x="905.88824"
@@ -1570,7 +1571,7 @@
        style="font-style:normal;font-weight:normal;font-size:42.66666794px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
        x="1132.5504"
        y="1039.4973"
-       id="text1402-30"><tspan
+       id="base__text_gerberfiles"><tspan
          sodipodi:role="line"
          x="1132.5504"
          y="1039.4973"
@@ -1580,7 +1581,7 @@
        style="font-style:normal;font-weight:normal;font-size:42.66666794px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
        x="690.72601"
        y="1039.4973"
-       id="text1402-2"><tspan
+       id="base__text_netlist"><tspan
          sodipodi:role="line"
          id="tspan1400-5"
          x="690.72601"
@@ -1588,23 +1589,23 @@
     <path
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker1939)"
        d="M 854.30302,365.47758 728.18247,573.20555 v -1.48377 5.93508"
-       id="path1929"
+       id="base__arrow_netlist-pcbeditor"
        inkscape:connector-curvature="0"
        transform="translate(0,11.249975)" />
     <path
        style="display:inline;fill:none;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker1939-5)"
        d="M 1306.1839,575.5427 1180.0634,367.81473 v 1.48377 -5.93508"
-       id="path1929-5"
+       id="base__arrow_pcbeditor-gerber"
        inkscape:connector-curvature="0"
        transform="translate(0,11.249975)" />
     <path
        style="display:inline;fill:none;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker1939-6)"
        d="m 1498.4343,376.72756 -126.1205,207.72796 v -1.48377 5.93508"
-       id="path1929-9"
+       id="base__arrow_gerber-fabricator"
        inkscape:connector-curvature="0" />
     <g
        style="display:inline"
-       id="g1924"
+       id="base__icon_fabricator"
        transform="translate(1480.6884,62.105916)">
       <g
          transform="translate(7.522055,-165.67122)"
@@ -1645,7 +1646,7 @@
          id="g1655-7">
         <polygon
            id="polygon1653-1"
-           points="42.908,261.357 130.513,218.938 130.513,262.279 223.652,218.938 223.652,263.202 409.928,263.202 409.928,448.556 42.908,448.556 "
+           points="130.513,262.279 223.652,218.938 223.652,263.202 409.928,263.202 409.928,448.556 42.908,448.556 42.908,261.357 130.513,218.938 "
            style="fill:#ff725e" />
       </g>
       <g
@@ -1992,7 +1993,7 @@
        style="font-style:normal;font-weight:normal;font-size:42.66666794px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
        x="1596.7438"
        y="402.54013"
-       id="text1402-3"><tspan
+       id="base__text_fabricator"><tspan
          sodipodi:role="line"
          id="tspan1400-0"
          x="1596.7438"
@@ -2000,21 +2001,21 @@
     <path
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker6073)"
        d="m 1706.6997,636.41643 -1.4838,-169.14993 -1.4838,1.48378"
-       id="path6063"
+       id="base__arrow_fabricator-pcb"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:42.66666794px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
        x="1671.4342"
        y="971.12231"
-       id="text1402-3-2"><tspan
+       id="base__text_pcb"><tspan
          sodipodi:role="line"
          id="tspan1400-0-4"
          x="1671.4342"
          y="971.12231">PCB</tspan></text>
     <g
        style="display:inline"
-       id="g1929"
+       id="base__icon_pcb"
        transform="matrix(16.404199,0,0,16.404199,1541.4968,721.38174)">
       <g
          transform="translate(-10.885454,0.18109927)"
